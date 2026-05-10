@@ -24,4 +24,6 @@ public class CloudinaryService {
 
         return uploadResult.get("url").toString();
     }
+    
+    
 }
